@@ -10,7 +10,8 @@ If unknown basket item is found, exception is thrown.
 2. Maven 3.3
 
 ##Building application
-To build application with tests, execute: 'mvn clean install'
+To build application with tests, execute: 'mvn clean install'.
+
 To generate javadocs use: 'mvn javadoc:javadoc' command
 
 ##Running application and tests
