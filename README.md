@@ -17,5 +17,6 @@ To generate javadocs use: 'mvn javadoc:javadoc' command
 ##Running application and tests
 
 There are two wais to run application from command line:
+
 1. By passing filename with basket products: java -jar target/RBC-1.0-SNAPSHOT.jar -f test.txt
 2. By passing list of products: java -jar target/RBC-1.0-SNAPSHOT.jar Bananas Oranges 
